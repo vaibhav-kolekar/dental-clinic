@@ -1,0 +1,7 @@
+com/vathare/clinic/controller/PatientController.class
+com/vathare/clinic/entity/MedicalHistory.class
+com/vathare/clinic/repository/MedicalHistoryRepository.class
+com/vathare/clinic/entity/Patient.class
+com/vathare/clinic/controller/MedicalHistoryController.class
+com/vathare/clinic/ClinicApplication.class
+com/vathare/clinic/repository/PatientRepository.class

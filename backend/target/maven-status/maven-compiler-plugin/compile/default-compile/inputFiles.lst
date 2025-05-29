@@ -1,0 +1,7 @@
+/Users/vaibhavkolekar/Projects/vathare-clinic/backend/src/main/java/com/vathare/clinic/ClinicApplication.java
+/Users/vaibhavkolekar/Projects/vathare-clinic/backend/src/main/java/com/vathare/clinic/controller/MedicalHistoryController.java
+/Users/vaibhavkolekar/Projects/vathare-clinic/backend/src/main/java/com/vathare/clinic/controller/PatientController.java
+/Users/vaibhavkolekar/Projects/vathare-clinic/backend/src/main/java/com/vathare/clinic/entity/MedicalHistory.java
+/Users/vaibhavkolekar/Projects/vathare-clinic/backend/src/main/java/com/vathare/clinic/entity/Patient.java
+/Users/vaibhavkolekar/Projects/vathare-clinic/backend/src/main/java/com/vathare/clinic/repository/MedicalHistoryRepository.java
+/Users/vaibhavkolekar/Projects/vathare-clinic/backend/src/main/java/com/vathare/clinic/repository/PatientRepository.java
