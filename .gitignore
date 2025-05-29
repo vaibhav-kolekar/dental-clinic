@@ -13,7 +13,7 @@ node_modules/
 /.vscode
 
 # Maven
-target/
+/target/
 /.mvn
 
 # Mobile Tools for Java (J2ME)
