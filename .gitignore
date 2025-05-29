@@ -7,6 +7,15 @@
 # BlueJ files
 *.ctxt
 *.DS_Store
+
+#node_modules
+node_modules/
+/.vscode
+
+# Maven
+target/
+/.mvn
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
