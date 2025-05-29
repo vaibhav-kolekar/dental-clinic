@@ -1,11 +1,19 @@
 # Compiled class file
 *.class
 
+# Maven
+target/
+/.mvn
+
+# IntelliJ IDEA
+.idea/
+
 # Log file
 *.log
+
+#VS code
 /.vscode
-/.mvn
-/.idea
+
 # BlueJ files
 *.ctxt
 
