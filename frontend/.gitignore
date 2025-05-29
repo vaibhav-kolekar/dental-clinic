@@ -4,9 +4,12 @@
 # Log file
 *.log
 
+#node_modules
+node_modules/
+/.vscode
 # BlueJ files
 *.ctxt
-*.DS_Store
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
